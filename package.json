@@ -10,7 +10,9 @@
   },
   "contributors": [
     "Phillip Barbiero <https://github.com/pbarbiero>",
-    "Keith Weaver <https://github.com/keithweaver>"
+    "Keith Weaver <https://github.com/keithweaver>",
+    "Denys Dovhan <https://github.com/denysdovhan>",
+    "Willy Ovalle <https://github.com/wovalle>"
   ],
   "license": "MIT",
   "main": "main.js",
